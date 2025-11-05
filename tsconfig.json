@@ -9,6 +9,8 @@
     "moduleResolution": "bundler",
     "experimentalDecorators": true,
     "target": "es2020",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
     "typeRoots": [
       "node_modules/@types"
     ],
