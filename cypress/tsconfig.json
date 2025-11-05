@@ -3,7 +3,6 @@
   "compilerOptions": {
     "types": ["cypress"],
     "forceConsistentCasingInFileNames": true,
-    "strict": true
   },
   "include": ["e2e/**/*.ts"]
 }
